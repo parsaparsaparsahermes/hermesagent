@@ -1,0 +1,61 @@
+{
+  "jobs": [
+    {
+      "id": "9617d57dd253",
+      "name": "hermes-backup-12h",
+      "prompt": "Execute the Hermes backup script at /data/hermes-backup/backup.sh and report the results. This script backs up all critical Hermes data including config, skills, sessions, and databases to the GitHub repository. Report: timestamp, commit hash, and whether push was successful.",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "provider_snapshot": null,
+      "model_snapshot": null,
+      "base_url": null,
+      "script": "backup.sh",
+      "no_agent": true,
+      "monitor_script": null,
+      "monitor_url": null,
+      "monitor_state": null,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 */12 * * *",
+        "display": "0 */12 * * *"
+      },
+      "schedule_display": "0 */12 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 3
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-08-29T17:21:05.242192+00:00",
+      "next_run_at": "2026-08-31T00:00:00+00:00",
+      "last_run_at": "2026-08-30T12:26:51.047878+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "failure_streak": 0,
+      "deliver": "origin",
+      "origin": {
+        "platform": "telegram",
+        "chat_id": "5855146124",
+        "chat_name": "Parsa",
+        "thread_id": null,
+        "user_id": "5855146124",
+        "scope_id": null
+      },
+      "enabled_toolsets": [
+        "terminal"
+      ],
+      "workdir": null,
+      "fire_claim": {
+        "at": "2026-08-30T12:26:59.529361+00:00",
+        "by": "bcf8a5cea185:2:78bd74a392094c2db1a81893724e143e"
+      }
+    }
+  ],
+  "updated_at": "2026-08-30T12:26:59.529754+00:00"
+}
