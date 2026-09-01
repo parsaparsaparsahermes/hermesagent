@@ -1,0 +1,13 @@
+{
+  "updated_at": "2026-09-01T11:56:27.893076",
+  "platforms": {
+    "telegram": [
+      {
+        "id": "5855146124",
+        "name": "Parsa",
+        "type": "dm",
+        "thread_id": null
+      }
+    ]
+  }
+}
