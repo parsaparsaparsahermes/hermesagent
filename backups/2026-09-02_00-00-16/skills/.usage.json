@@ -1,0 +1,47 @@
+{
+  "github-auth": {
+    "archived_at": null,
+    "created_at": "2026-08-29T17:22:07.574499+00:00",
+    "created_by": null,
+    "last_patched_at": null,
+    "last_reused_patch_generation": 0,
+    "last_used_at": "2026-08-29T17:22:07.583856+00:00",
+    "last_viewed_at": "2026-08-29T17:22:07.574510+00:00",
+    "patch_count": 0,
+    "patch_generation": 0,
+    "pinned": false,
+    "state": "active",
+    "use_count": 1,
+    "view_count": 1
+  },
+  "github-repo-management": {
+    "archived_at": null,
+    "created_at": "2026-08-29T17:22:07.570019+00:00",
+    "created_by": null,
+    "last_patched_at": null,
+    "last_reused_patch_generation": 0,
+    "last_used_at": "2026-08-29T17:22:07.578665+00:00",
+    "last_viewed_at": "2026-08-29T17:22:07.570038+00:00",
+    "patch_count": 0,
+    "patch_generation": 0,
+    "pinned": false,
+    "state": "active",
+    "use_count": 1,
+    "view_count": 1
+  },
+  "sdlc-review": {
+    "archived_at": null,
+    "created_at": "2026-08-29T17:22:32.707671+00:00",
+    "created_by": null,
+    "last_patched_at": null,
+    "last_reused_patch_generation": 0,
+    "last_used_at": "2026-08-29T17:22:32.711909+00:00",
+    "last_viewed_at": "2026-08-29T17:22:32.707687+00:00",
+    "patch_count": 0,
+    "patch_generation": 0,
+    "pinned": false,
+    "state": "active",
+    "use_count": 1,
+    "view_count": 1
+  }
+}
