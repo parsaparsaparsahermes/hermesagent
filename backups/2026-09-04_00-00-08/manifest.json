@@ -1,0 +1,18 @@
+{
+    "backup_timestamp": "2026-09-04_00-00-08",
+    "backup_date": "2026-09-04T00:00:08+00:00",
+    "hermes_home": "/data/.hermes",
+    "hostname": "bcf8a5cea185",
+    "backup_contents": {
+        "config": "5 files",
+        "memories": "0 files",
+        "sessions": "1 files",
+        "cron": "2 files",
+        "skills": "486 files",
+        "platforms": "4 entries",
+        "databases": "2 files (local only)",
+        "system": "1 files"
+    },
+    "total_size": "7.8M",
+    "note": "databases/state.db contains secrets and is excluded from git push"
+}
